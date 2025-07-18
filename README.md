@@ -37,6 +37,8 @@ Evaluate performance (accuracy, classification report)
 
 Interpret results using a visual tree
 
+**OUTPUT**
+<img width="1251" height="755" alt="Image" src="https://github.com/user-attachments/assets/f51a4fba-b79a-40a4-bab3-f1f9c85d05d9" />
 
 
 
